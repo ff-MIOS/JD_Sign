@@ -1,0 +1,24 @@
+{
+  "name": "jd_sign_action",
+  "version": "1.0.0",
+  "description": "sign",
+  "main": "jd_sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzeta/JD_Sign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrzeta/JD_Sign/issues"
+  },
+  "homepage": "https://github.com/mrzeta/JD_Sign#readme",
+  "dependencies": {
+    "download": "^8.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
